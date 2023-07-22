@@ -5,3 +5,7 @@
     --link: var(--base0A);
     --hover: var(--base09);
 }
+
+.copyright{
+  text-align: center;
+}
